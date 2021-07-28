@@ -2,7 +2,7 @@
 
 __
 
-## Comenzando 🚀
+## By Ciaa! 
 
 _Este scanner de puertos te servira para obtener informacion necesaria de tu objetivo y realizar con mayor precision ataques DDoS_
 
