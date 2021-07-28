@@ -41,8 +41,8 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Ciiaa1** - *Trabajo Inicial* - [villanuevand](https://github.com/Ciia1)
-* **Vitro-Dev** - *Trabajo Inicial* - [villanuevand](https://github.com/vitro-dev)
+* **Ciiaa1** - *Trabajo Inicial* - (https://github.com/Ciia1)
+* **Vitro-Dev** - *Trabajo Inicial* - (https://github.com/vitro-dev)
 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
