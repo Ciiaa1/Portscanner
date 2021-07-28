@@ -1,20 +1,20 @@
-# Título del Proyecto
+# SCANNER DE PUERTOS
 
-_Acá va un párrafo que describa lo que es el proyecto_
+__
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Este scanner de puertos te servira para obtener informacion necesaria de tu objetivo y realizar con mayor precision ataques DDoS_
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Ultimas versiones de python: 3.9 y 3.8 recomendables._
 
 ```
-Da un ejemplo
+
 ```
 
 ### Instalación 🔧
