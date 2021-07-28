@@ -14,7 +14,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 _Ultimas versiones de python: 3.9 y 3.8 recomendables._
 
 ```
-
+https://www.python.org/downloads/
 ```
 
 ### Instalación 🔧
